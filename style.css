@@ -51,7 +51,7 @@ body {
 
 .main-content .person {
     font-size: 1.6rem;
-    color: red;
+    color: rgb(2, 8, 45);
     text-transform: uppercase;
     margin-top: 20px;
 }
